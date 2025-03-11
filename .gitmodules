@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "lavaan.mi"]
+	path = lavaan.mi
+	url = https://github.com/tdjorgensen/lavaan.mi
 [submodule "simsem"]
 	path = simsem
 	url = https://github.com/cran/simsem
